@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+
+    
+body{
+    background-color: rgb(94, 96, 93);
+}
+nav logo img{
+    height: 60px;
+    width: auto;
+}
+nav ul{
+    float: right;
+    margin: left 0px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+h3{
+    font-size: 45px;
+    padding: 50px;
+    color: white;
+}
+.jarvis img{
+    justify-content: center;
+}
+h4{
+    font-size: 35px;
+    padding: 50px;
+    color: aliceblue;
+}
+.stark{
+    width: 100%;
+}
+.stark h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-left: 40%;
+    color: white;
+}
+.stark h2{
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-left: 42%;
+    color: white;
+}
+.jarvis p{
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-left: 34%;
+    color: white;
+}
+.jarvis img{
+    padding-left: 35%;
+}
